@@ -1,0 +1,60 @@
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Jongbloets_Final\Source_Temp1//14dpi_WT1_S14b_2.CNG.swc
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Auto swc//14dpi_WT1_S14b_2.DAT.asc.swc.CNG.swc
+#
+# Original file C:\NMO_dev\data_proc\Temp_LMeasure\14dpi_WT1_S14b_2.DAT.asc.swc edited using StdSwc version 1.31 on 9/4/17.
+# Irregularities and fixes documented in C:\NMO_dev\data_proc\Temp_LMeasure\14dpi_WT1_S14b_2.DAT.asc.swc.std.  See StdSwc1.31.doc for more information.
+#
+# Neurolucida to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Source_Temp1//14dpi_WT1_S14b_2.DAT.asc
+#The original file has a single soma contour that is averaged into 3 soma points
+ 1 1 0 0 0 3.97815 -1
+ 2 1 -3.95 -0.33 0 3.97815 1
+ 3 1 3.95 0.33 0 3.97815 1
+ 4 4 1.97 6.91 4 0.66 1
+ 5 4 3.3 10.68 4 0.93 4
+ 6 4 3.48 13.88 4 0.93 5
+ 7 4 5.12 17.52 6 0.62 6
+ 8 4 6.29 19.49 6 0.62 7
+ 9 4 7.21 21.36 7 0.62 8
+ 10 4 7.35 22.6 7 0.62 9
+ 11 4 7.68 25.04 7 0.62 10
+ 12 4 8.37 28.06 8 0.465 11
+ 13 4 9.17 30.53 8 0.465 12
+ 14 4 8.96 33.87 9 0.465 13
+ 15 4 8.08 37.83 10 0.465 14
+ 16 4 7.32 41.28 11 0.465 15
+ 17 4 6.91 45.37 11 0.465 16
+ 18 4 6.63 49.45 11 0.465 17
+ 19 4 6.33 52.31 11 0.465 18
+ 20 4 6.34 54.02 12 0.465 19
+ 21 4 6.53 56.21 12 0.465 20
+ 22 4 6.55 58.86 12 0.465 21
+ 23 4 6.77 60.83 12 0.465 22
+ 24 4 7.64 64.24 12 0.465 23
+ 25 4 8.47 68.28 12 0.465 24
+ 26 4 4.79 56.54 12 0.465 20
+ 27 4 2.95 61.98 12 0.465 26
+ 28 4 2.08 62.91 12 0.465 27
+ 29 4 1.63 64.58 12 0.465 28
+ 30 4 1.94 65.63 12 0.465 29
+ 31 4 0.93 68.43 12 0.465 30
+ 32 4 -0.79 73.32 12 0.465 31
+ 33 4 -2.81 78.75 12 0.465 32
+ 34 4 10.26 34.2 9 0.465 14
+ 35 4 11.93 35.67 10 0.465 34
+ 36 4 13.27 37.18 9 0.465 35
+ 37 4 14.23 40.52 10 0.465 36
+ 38 4 15.07 42.63 12 0.465 37
+ 39 4 16.09 44.33 11 0.465 38
+ 40 4 16.97 45.82 11 0.465 39
+ 41 4 18.19 47.08 11 0.465 40
+ 42 4 20.14 48.88 11 0.465 41
+ 43 4 22.19 49.36 11 0.465 42
+ 44 4 5.87 26.14 6 0.465 11
+ 45 4 4.37 27.49 6 0.465 44
+ 46 4 2.44 27.33 6 0.465 45
+ 47 4 0.91 26.96 6 0.465 46
+ 48 4 0.31 26.68 6 0.465 47

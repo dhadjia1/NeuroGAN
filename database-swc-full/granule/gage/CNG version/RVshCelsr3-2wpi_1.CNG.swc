@@ -1,0 +1,25 @@
+# Original file RVshCelsr3-2wpi_1.swc edited using StdSwc version 1.31 on 2/4/16.
+# Irregularities and fixes documented in RVshCelsr3-2wpi_1.swc.std.  See StdSwc1.31.doc for more information.
+#
+# Neurolucida to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\Users\praveen\Desktop\Miranda Processing\Gage\4 SWC\RVshCelsr3-2wpi_1.asc
+#The original file has a single soma contour that is averaged into 3 soma points
+1 1 0.0 0.0 0.0 3.78788 -1
+2 1 1.63 3.41 0.0 3.78788 1
+3 1 -1.63 -3.41 0.0 3.78788 1
+4 3 -0.83 3.53 1.79 0.205 1
+5 3 -0.49 6.54 1.79 0.205 4
+6 3 -0.55 10.25 7.19 0.205 5
+7 3 -3.17 11.5 10.8 0.205 6
+8 3 -4.95 17.41 10.8 0.205 7
+9 3 -4.69 23.72 14.39 0.205 8
+10 3 -6.24 27.22 14.39 0.205 9
+11 3 -7.13 35.0 18.0 0.205 10
+12 3 1.21 14.91 9.0 0.205 6
+13 3 1.48 20.31 12.6 0.205 12
+14 3 2.17 23.67 16.2 0.205 13
+15 3 2.84 27.01 16.2 0.205 14
+16 3 2.06 29.22 19.79 0.205 15
+17 3 4.48 18.88 10.8 0.205 12
+18 3 5.99 27.82 12.6 0.205 17
+19 3 1.59 34.98 14.39 0.205 18

@@ -1,0 +1,54 @@
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\test3\ready_Final\Source_Temp1//6b2_1.CNG.swc
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\test3\Auto swc//6b2_1.asc.swc.CNG.swc
+#
+# Original file C:\test3\Temp_LMeasure\6b2_1.asc.swc edited using StdSwc version 1.31 on 7/1/16.
+# Irregularities and fixes documented in C:\test3\Temp_LMeasure\6b2_1.asc.swc.std.  See StdSwc1.31.doc for more information.
+#
+# Neurolucida to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\test3\Source_Temp1//6b2_1.asc
+#The original file has a single soma contour that is averaged into 3 soma points
+ 1 1 0 0 0 6.42055 -1
+ 2 1 3.37 -5.45 0 6.42055 1
+ 3 1 -3.37 5.45 0 6.42055 1
+ 4 3 0.1 8.59 0 0.8 1
+ 5 3 0.59 10.23 0 0.56 4
+ 6 3 1.06 13.15 0 0.56 5
+ 7 3 0.86 17.75 0 0.56 6
+ 8 3 0.37 20.65 0 0.56 7
+ 9 3 -0.18 24.63 0 0.56 8
+ 10 3 0.07 28.78 0 0.56 9
+ 11 3 -0.18 35 0 0.56 10
+ 12 3 0.12 42.39 0 0.56 11
+ 13 3 0.16 46.94 0 0.56 12
+ 14 3 -1.36 52.77 0 0.08 13
+ 15 3 2.38 49.43 -28.01 0.32 13
+ 16 3 2.08 52.65 -28.01 0.32 15
+ 17 3 2.54 55.58 -28.01 0.32 16
+ 18 3 3.29 55.86 -28.01 0.32 17
+ 19 3 0.96 64.22 -28.01 0.32 18
+ 20 3 -0.99 69.22 -28.01 0.32 19
+ 21 3 -5.45 76.45 -26.01 0.32 20
+ 22 3 -8.29 80.73 -26.01 0.32 21
+ 23 3 -7.03 82.08 -26.01 0.32 21
+ 24 3 -6.37 84.95 -26.01 0.32 23
+ 25 3 -5.46 89.27 -26.01 0.32 24
+ 26 3 -5.62 91.99 -26.01 0.32 25
+ 27 3 -5.37 97.06 -26.01 0.32 26
+ 28 3 -2.32 104.62 -26.01 0.32 27
+ 29 3 -0.59 114.35 -26.01 0.32 28
+ 30 3 0.28 115.67 -26.01 0.24 29
+ 31 3 0.45 124.83 -26.01 0.24 30
+ 32 3 -2.02 132.51 -26.01 0.24 31
+ 33 3 -3.72 137.69 -26.01 0.24 32
+ 34 3 -4.05 148.62 -26.01 0.24 33
+ 35 3 -1.88 154.85 -26.01 0.24 34
+ 36 3 1.08 58.24 -28.01 0.08 17
+ 37 3 1.59 67.81 -28.01 0.08 36
+ 38 3 1.33 78.59 -28.01 0.08 37
+ 39 3 3.42 92.9 -28.01 0.08 38
+ 40 3 7.03 101.35 -28.01 0.08 39
+ 41 3 13.56 112.17 -28.01 0.08 40
+ 42 3 18.28 127.72 -26.01 0.08 41

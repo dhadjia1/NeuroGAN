@@ -1,0 +1,22 @@
+# Original file AE-1.swc edited using StdSwc version 1.31 on 6/20/14.
+# Irregularities and fixes documented in AE-1.swc.std.  See StdSwc1.31.doc for more information.
+#
+# Neurolucida to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\Users\praveen\Desktop\DataProcessing\CurrentArchives\Processing\Wadiche-2\ASC\AE-1.asc
+#The original file has a single soma contour that is averaged into 3 soma points
+# NEUROMANTIC V1.6.3 (6/16/2014 12:31:36 PM): Saved to AE-1-T1.swc
+1 1 0.0 0.0 0.0 3.8531 -1
+2 1 -3.25 -2.05 0.0 3.8531 1
+3 1 3.25 2.05 0.0 3.8531 1
+4 3 0.27 -0.87 0.0 0.115 1
+5 3 3.09 1.99 0.0 0.115 4
+6 3 2.4 4.82 0.0 0.115 5
+7 3 1.36 6.89 0.0 0.115 6
+8 3 0.42 10.11 2.26 0.115 7
+9 3 1.12 12.45 2.26 0.115 8
+10 3 1.5 14.87 4.53 0.115 9
+11 3 1.58 18.18 4.53 0.115 10
+12 3 1.71 20.99 6.8 0.115 11
+13 3 2.3 23.54 4.53 0.115 12
+14 3 1.36 26.75 4.53 0.115 13
+15 3 0.03 29.72 4.53 0.115 14

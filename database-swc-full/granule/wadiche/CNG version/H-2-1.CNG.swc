@@ -1,0 +1,36 @@
+# Original file H-2.swc edited using StdSwc version 1.31 on 6/20/14.
+# Irregularities and fixes documented in H-2.swc.std.  See StdSwc1.31.doc for more information.
+#
+# Neurolucida to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\Users\praveen\Desktop\DataProcessing\CurrentArchives\Processing\Wadiche-2\ASC\H-2.asc
+#The original file has a single soma contour that is averaged into 3 soma points
+# NEUROMANTIC V1.6.3 (6/16/2014 12:58:33 PM): Saved to H-2-T1.swc
+1 1 0.0 0.0 0.0 5.575 -1
+2 1 4.18 -3.68 0.0 5.575 1
+3 1 -4.18 3.68 0.0 5.575 1
+4 3 -0.46 0.44 -2.45 0.115 1
+5 3 -1.52 6.9 -5.48 0.115 4
+6 3 -1.56 10.0 -7.0 0.115 5
+7 3 -2.69 12.54 -7.0 0.115 6
+8 3 -3.12 14.14 -7.0 0.115 7
+9 3 -3.26 16.42 -7.0 0.115 8
+10 3 -4.46 19.92 -7.0 0.115 9
+11 3 -4.26 21.89 -11.54 0.115 10
+12 3 -4.06 23.86 -11.54 0.115 11
+13 3 -4.21 26.14 -11.54 0.115 12
+14 3 -3.73 28.78 -14.57 0.115 13
+15 3 -3.68 33.35 -14.57 0.115 14
+16 3 -3.87 36.27 -14.57 0.115 15
+17 3 -3.84 38.39 -14.57 0.115 16
+18 3 -4.04 41.64 -14.57 0.115 17
+19 3 -3.56 44.28 -14.57 0.115 18
+20 3 -3.26 47.41 -14.57 0.115 19
+21 3 -4.21 49.46 -14.57 0.115 20
+22 3 -4.68 51.72 -17.6 0.115 21
+23 3 -4.81 15.01 -7.0 0.115 8
+24 3 -6.49 15.89 -7.0 0.115 23
+25 3 -8.52 17.06 -7.0 0.115 24
+26 3 -10.34 17.43 -7.75 0.115 25
+27 3 -12.01 17.98 -7.75 0.115 26
+28 3 -13.96 17.86 -7.75 0.115 27
+29 3 -14.42 17.34 -7.75 0.115 28

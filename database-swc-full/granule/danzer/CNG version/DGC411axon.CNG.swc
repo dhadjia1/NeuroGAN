@@ -1,0 +1,67 @@
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:/cng_repository/Soumya/LM_Automated_Testing_Enviornment/Test_Lm3.7.2_10062011_SG_Linux_NMOConv6/TestResults/LoadTest/test_8/DGC411axon.CNG.swc
+#
+# Original file DGC411axon.swc edited by Duncan Donohue using StdSwc version 1.31 on 5/9/10.
+# Irregularities and fixes documented in DGC411axon.swc.std.  See StdSwc1.31.doc for more information.
+#
+# Neurolucida to SWC conversion from L-Measure. R. Scorcioni: rscorcio@gmu.edu
+# Original fileName:C:\Users\praveen\Desktop\DanzerO\Master File Processing\Original\DGC411axon.ASC
+#
+# ORIGINAL_SOURCE 
+# CREATURE 
+# REGION 
+# FIELD/LAYER 
+# TYPE 
+# CONTRIBUTOR 
+# REFERENCE 
+# RAW 
+# EXTRAS 
+# SOMA_AREA 
+# SHRINKAGE_CORRECTION 
+# VERSION_NUMBER 
+# VERSION_DATE 
+# ********************************************* 
+# SCALE 1.0 1.0 1.0 
+ 1 1 69.75 -35.14 -8.39 4.814 -1
+ 2 1 69.75 -30.32 -8.39 4.814 1
+ 3 1 69.75 -39.95 -8.39 4.814 1
+ 4 2 64.59 -38.4 -7.5 0.02 1
+ 5 2 63.52 -38.47 -7.5 0.02 4
+ 6 2 62.79 -38.67 -7.5 0.02 5
+ 7 2 62.27 -38.47 -7.5 0.015 6
+ 8 2 61.61 -38.61 -7.5 0.015 7
+ 9 2 60.95 -38.79 -7.5 0.015 8
+ 10 2 60.16 -38.79 -7.5 0.015 9
+ 11 2 59.41 -39 -7.5 0.015 10
+ 12 2 58.68 -39.29 -7.5 0.015 11
+ 13 2 58.06 -39.46 -7.5 0.015 12
+ 14 2 57.5 -39.43 -7.5 0.015 13
+ 15 2 62.32 -38.79 -7.5 0.02 6
+ 16 2 61.32 -39.79 -7.2 0.02 15
+ 17 2 60.72 -40.84 -7.2 0.02 16
+ 18 2 59.92 -42 -7.2 0.02 17
+ 19 2 59.36 -43.2 -6.6 0.02 18
+ 20 2 58.52 -43.28 -6.6 0.02 19
+ 21 2 58.12 -43.84 -6.6 0.02 20
+ 22 2 57.44 -44.8 -6.3 0.02 21
+ 23 2 56.96 -45.8 -6.3 0.02 22
+ 24 2 56.39 -47.01 -6.3 0.02 23
+ 25 2 56.03 -47.69 -6.3 0.02 24
+ 26 2 56.03 -48.33 -6.3 0.02 25
+ 27 2 56.43 -49.21 -6.3 0.02 26
+ 28 2 57.56 -50.13 -6.3 0.02 27
+ 29 2 57.76 -50.85 -6.9 0.02 28
+ 30 2 57.76 -51.89 -6.9 0.02 29
+ 31 2 57.48 -53.05 -6.9 0.02 30
+ 32 2 57.24 -54.73 -6.9 0.02 31
+ 33 2 57.26 -55.25 -6.9 0.02 32
+ 34 2 57.5 -56.05 -6.9 0.02 33
+ 35 2 58.06 -56.98 -6.9 0.02 34
+ 36 2 58.94 -58.22 -6.9 0.02 35
+ 37 2 59.14 -59.62 -7.2 0.02 36
+ 38 2 59.82 -60.94 -6.9 0.02 37
+ 39 2 59.86 -61.82 -6.9 0.02 38
+ 40 2 59.58 -62.9 -7.8 0.02 39
+ 41 2 59.02 -63.94 -7.8 0.02 40
+ 42 2 58.74 -65.5 -7.8 0.02 41
+ 43 2 59.1 -66.09 -7.8 0.02 42

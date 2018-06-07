@@ -1,0 +1,56 @@
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Kanatsou_Final\Source_Temp1//ID8_sl23_R_CA3_BF_40x.CNG.swc
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Auto swc//ID8_sl23_R_CA3_BF_40x.swc.swc.CNG.swc
+#
+# Original file C:\NMO_dev\data_proc\Temp_LMeasure\ID8_sl23_R_CA3_BF_40x.swc.swc edited using StdSwc version 1.31 on 6/28/17.
+# Irregularities and fixes documented in C:\NMO_dev\data_proc\Temp_LMeasure\ID8_sl23_R_CA3_BF_40x.swc.swc.std.  See StdSwc1.31.doc for more information.
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Source_Temp1//ID8_sl23_R_CA3_BF_40x.swc
+#
+ 1 4 0 0 0 0.25 -1
+ 2 4 3.55 15.55 3 0.25 1
+ 3 4 3.82 21.49 3 0.25 2
+ 4 4 2.01 26.67 3 0.25 3
+ 5 4 -1.71 31.29 6.48 0.25 4
+ 6 4 -2.25 31.97 6.98 0.25 5
+ 7 4 -6.21 35.54 6.98 0.25 6
+ 8 4 -11 38.3 8.97 0.25 7
+ 9 4 -15.34 41.91 9.97 0.25 8
+ 10 4 -18.47 45.43 11.97 0.25 9
+ 11 4 -19.48 50.16 10.97 0.25 10
+ 12 4 -17.24 54.73 8.97 0.25 11
+ 13 4 -16.31 57.25 6.98 0.25 12
+ 14 4 -15.57 64.44 4.98 0.25 13
+ 15 4 -13.96 72.86 5.98 0.25 14
+ 16 4 -13.74 77.96 7.98 0.25 15
+ 17 4 -9.48 81.59 8.97 0.25 16
+ 18 4 -3.24 83.44 7.98 0.25 17
+ 19 4 1.72 84.9 6.98 0.25 18
+ 20 4 1.87 88.3 6.98 0.25 19
+ 21 4 2.45 92.11 7.98 0.25 20
+ 22 4 1.03 96.84 8.97 0.25 21
+ 23 4 -0.76 102.46 12.97 0.25 22
+ 24 4 -2.57 108.06 17.95 0.25 23
+ 25 4 0.04 111.75 17.95 0.25 24
+ 26 4 2.33 116.77 26.94 0.25 25
+ 27 4 7.01 120.81 28.94 0.25 26
+ 28 4 -15.59 82.71 3 0.25 16
+ 29 4 -20.69 87.61 1 0.25 28
+ 30 4 -20.64 61.26 -1 0.25 13
+ 31 4 -24.13 65.67 -3 0.25 30
+ 32 4 -21.71 46.44 13.96 0.25 10
+ 33 4 -25.39 46.6 13.96 0.25 32
+ 34 4 -28.99 48.89 13.96 0.25 33
+ 35 4 -29.63 52.75 13.96 0.25 34
+ 36 4 -31.9 56.66 13.96 0.25 35
+ 37 4 -33.76 61 13.96 0.25 36
+ 38 4 -35.65 64.91 13.96 0.25 37
+ 39 4 3.08 32.57 3 0.25 5
+ 40 4 5.29 36.3 1 0.25 39
+ 41 4 6.44 43.46 1 0.25 40
+ 42 4 4.67 31.65 5.98 0.25 4
+ 43 4 8.54 35.3 7.98 0.25 42
+ 44 4 10.77 39.45 7.98 0.25 43

@@ -1,0 +1,37 @@
+
+Author: Darian Hadjiabadi
+email: dhh@stanford.edu
+
+------------------------------------------------------
+
+
+I'll try to make the readme quick - it's just to describe file hierarchy.
+
+gan/ - Contains code for building architecture and training a general
+adversarial network
+
+utils/ - Contains code for preprocessing and visualization
+
+database-swc-full/ - Contains all swc files downloaded from NeuroMorpho
+
+database-imgs-full/ - Contains 64x64 images for pyramidal and granule cells
+after preprocessing
+
+output-large/ - Contains outputs from DCGAN.
+
+models/ - Contains the 'best' DCGAN models for each class of neuron. 
+Can be read in and used to generate dendritic morphologies.
+
+
+preprocessing.ipynb - shows preprocessing steps
+granule(pyramidal)-gan-development.ipynb - steps to build DCGAN model
+granule(pyramidal)-quantitaive-assessmnet.ipynb - visualize and plots 
+    network weights. Use kernel MMD to quantify model quality
+generalization-check.ipynb - Use kernel MMD to access overfitting for
+    both granule and pyramidal DCGAN models
+granule(pyramidal)-qualitative-assessment.ipynb - creates shuffled datasets
+    of real and fake images for users to disern real from fake
+generate_morphologies.ipynb - Loads in built models and generates images.
+
+
+Additional: database-imgs-small, database-swc-small, output-small, testing-platform.ipynb were all used for testing

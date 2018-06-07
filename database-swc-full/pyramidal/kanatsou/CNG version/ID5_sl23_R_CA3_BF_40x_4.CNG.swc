@@ -1,0 +1,40 @@
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Kanatsou_Final\Source_Temp1//ID5_sl23_R_CA3_BF_40x_4.CNG.swc
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Auto swc//ID5_sl23_R_CA3_BF_40x_4.swc.swc.CNG.swc
+#
+# Original file C:\NMO_dev\data_proc\Temp_LMeasure\ID5_sl23_R_CA3_BF_40x_4.swc.swc edited using StdSwc version 1.31 on 6/28/17.
+# Irregularities and fixes documented in C:\NMO_dev\data_proc\Temp_LMeasure\ID5_sl23_R_CA3_BF_40x_4.swc.swc.std.  See StdSwc1.31.doc for more information.
+#
+# SWC to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\NMO_dev\data_proc\Source_Temp1//ID5_sl23_R_CA3_BF_40x_4.swc
+#
+ 1 4 0 0 0 0.25 -1
+ 2 4 9.23 8.77 1.34 0.25 1
+ 3 4 12.14 14.56 4.27 0.25 2
+ 4 4 14.91 19.77 5.25 0.25 3
+ 5 4 16.15 23.84 4.88 0.25 4
+ 6 4 16.15 27.52 4.75 0.25 5
+ 7 4 18.15 33.81 2.77 0.25 6
+ 8 4 19.73 40.09 1.63 0.25 7
+ 9 4 20.07 45.07 0.77 0.25 8
+ 10 4 21.63 45.38 -4.55 0.25 9
+ 11 4 23.25 48.92 -3.45 0.25 10
+ 12 4 23.22 54.86 -1.37 0.25 11
+ 13 4 25.97 61.38 1.86 0.25 12
+ 14 4 26.19 66.2 3.48 0.25 13
+ 15 4 30.03 70.7 4.6 0.25 14
+ 16 4 27.83 78.03 4.26 0.25 15
+ 17 4 25.65 83.15 1.72 0.25 16
+ 18 4 25.46 58.07 3 0.25 12
+ 19 4 24.53 63.05 4.66 0.25 18
+ 20 4 22.03 69.66 2.72 0.25 19
+ 21 4 17.85 74.02 1.94 0.25 20
+ 22 4 15.56 78.97 1.86 0.25 21
+ 23 4 14.45 83.35 -0.53 0.25 22
+ 24 4 11.83 89.79 0 0.25 23
+ 25 4 11.41 93.49 0.7 0.25 24
+ 26 4 5.45 101.51 -1.1 0.25 25
+ 27 4 2.79 105.58 1.81 0.25 26
+ 28 4 3.74 106.05 8.82 0.25 27

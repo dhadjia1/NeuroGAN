@@ -1,0 +1,36 @@
+# Original file RVshatp6ap2-2wpi_1.swc edited using StdSwc version 1.31 on 2/4/16.
+# Irregularities and fixes documented in RVshatp6ap2-2wpi_1.swc.std.  See StdSwc1.31.doc for more information.
+#
+# Neurolucida to SWC conversion from L-Measure. Sridevi Polavaram: spolavar@gmu.edu
+# Original fileName:C:\Users\praveen\Desktop\Miranda Processing\Gage\4 SWC\RVshatp6ap2-2wpi_1.asc
+#The original file has a single soma contour that is averaged into 3 soma points
+1 1 0.0 0.0 0.0 3.67783 -1
+2 1 -1.77 -3.22 0.0 3.67783 1
+3 1 1.77 3.22 0.0 3.67783 1
+4 3 1.77 4.59 2.7 0.205 1
+5 3 2.27 9.07 2.7 0.205 4
+6 3 2.94 12.01 2.7 0.205 5
+7 3 3.38 13.67 2.7 0.205 6
+8 3 4.02 15.69 2.7 0.205 7
+9 3 4.98 16.57 2.7 0.205 8
+10 3 4.56 20.13 2.7 0.205 9
+11 3 3.71 22.01 2.7 0.205 10
+12 3 3.58 23.51 2.7 0.205 11
+13 3 4.58 25.32 2.7 0.205 12
+14 3 3.68 30.56 0.0 0.205 13
+15 3 3.57 37.25 0.0 0.205 14
+16 3 3.56 41.52 -2.7 0.205 15
+17 3 6.16 46.25 -2.7 0.205 16
+18 3 5.79 46.45 -2.7 0.205 17
+19 3 4.66 50.4 2.7 0.205 18
+20 3 3.3 58.25 3.59 0.205 19
+21 3 5.8 65.39 3.59 0.205 20
+22 3 11.68 56.04 -4.5 0.205 18
+23 3 -1.98 37.47 0.0 0.205 14
+24 3 -1.87 40.25 0.0 0.205 23
+25 3 -3.25 42.91 0.0 0.205 24
+26 3 -5.64 52.66 0.0 0.205 25
+27 3 7.47 18.53 2.7 0.205 9
+28 3 9.0 19.58 2.7 0.205 27
+29 3 12.57 25.19 4.5 0.205 28
+30 3 14.92 31.26 4.5 0.205 29
